@@ -115,7 +115,7 @@ To enter bootloader mode on the XIAO: hold **BOOT**, plug in USB, then release *
 
 | Ask the weather                                  | General talk                               |
 | ------------------------------------------------ | ------------------------------------------ |
-| ![Ask the weather](docs/images/demo-weather.jpg) | ![General talk](docs/images/demo-talk.jpg) |
+| ![Ask the weather](video/weather.mp4) | ![General talk](video/general.mp4) |
 
 > 🎬 Add a demo video link here.
 
