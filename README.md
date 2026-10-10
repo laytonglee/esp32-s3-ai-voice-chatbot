@@ -113,11 +113,26 @@ To enter bootloader mode on the XIAO: hold **BOOT**, plug in USB, then release *
 
 ## ▶️ Demo
 
-| Ask the weather                                  | General talk                               |
-| ------------------------------------------------ | ------------------------------------------ |
-| ![Ask the weather](https://www.youtube.com/shorts/sKnOnTCmK2Y) | ![General talk](https://www.youtube.com/shorts/vj4gSDw4yzM) |
+<table>
+  <tr>
+    <th>🌦️ Ask the weather</th>
+    <th>💬 General talk</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/shorts/sKnOnTCmK2Y">
+        <img src="https://img.youtube.com/vi/sKnOnTCmK2Y/hqdefault.jpg" alt="Ask the weather demo video" width="320">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/shorts/vj4gSDw4yzM">
+        <img src="https://img.youtube.com/vi/vj4gSDw4yzM/hqdefault.jpg" alt="General talk demo video" width="320">
+      </a>
+    </td>
+  </tr>
+</table>
 
-> 🎬 Add a demo video link here.
+> ▶️ Click a thumbnail to watch on YouTube. Can't open YouTube? The same videos are in the [`video/`](video/) folder: [weather.mp4](video/weather.mp4) · [general.mp4](video/general.mp4)
 
 ## 📚 Documentation Site
 
